@@ -1,2 +1,2 @@
 # python
-py实验
+python实验
